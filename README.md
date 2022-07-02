@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sahilkhan111278
-- 👀 I’m interested in Web developer, competitive coder, designer
+- 👀 I’m Web developer, competitive coder, designer
 - 🌱 I’m currently learning computer engineering in Marwadi University.
 
 <!---
